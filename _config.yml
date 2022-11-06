@@ -1,5 +1,6 @@
 baseurl: /blog_demo
-zhihu: https://www.zhihu.com/people/yi-tai-li-zi-68
+footer-links:
+  zhihu: https://www.zhihu.com/people/yi-tai-li-zi-68
 gitalk:
   clientID: <5c481f51c2581417c01d>
   clientSecret: <a1ca78d13c26d9f185c4efb1f8967966e75c154f>
